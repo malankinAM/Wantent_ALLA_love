@@ -1,0 +1,107 @@
+@import url(https://fonts.googleapis.com/css?family=Ewert);
+@import url('https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap');
+
+input {
+  display: block;
+  margin: 5px;
+  width: 100px;
+  margin: 0 auto;
+  color: brown;
+ 
+}
+
+.west * {
+  font-family: "Stalinist One", sans-serif;
+  color: rgb(12, 12, 12);
+}
+
+.west h1 {
+  font-family: "Stalinist One", sans-serif;
+  font-weight: normal;
+  font-size: 28px;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.west h2 {
+  font-weight: normal;
+  font-size: 20px;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.west h2 {
+  font-weight: normal;
+  font-size: 20px;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.west hr {
+  margin: 8px 30px;
+  border: 0;
+  border-bottom: 2px solid rgb(63, 30, 2);
+}
+
+.west canvas {
+  width: 300px;
+  height: 220px;
+  filter: grayscale(100%);
+  mix-blend-mode: multiply;
+  opacity: 0.8;
+}
+
+.west p {
+  font-size: 16px;
+}
+
+.west {
+  border-radius: 2px;
+  width: 340px;
+  margin: 20px auto;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 0 20px black;
+  background: url('./vintage-texture-old-paper-background-isolated-on-black_599991-3059.avif');
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+.west canvas {  
+  background: url('./old-paper-texture.jpg');
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: contain;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  background: url('https://img.freepik.com/premium-photo/old-paper-black-wood-board-brown_1027705-355.jpg?w=1060');
+  background-size: 100% ;
+  margin: 0;
+  
+}
